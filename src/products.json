@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image": "https://cdn.dsmcdn.com/ty244/product/media/images/20211113/15/178659751/60480963/1/1_org_zoom.jpg"
+    },
+    {
+        "id":2,
+        "title": "Kola",
+        "price": 6,
+        "image":"https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/6400-coca-cola-200-ml-cam-54491250-jpg-54491250.jpg"
+    },
+    {
+        "id":3,
+        "title": "Ayakkabı",
+        "price": 400,
+        "image": "https://fns.modanisa.com/r/pro2/2020/02/02/z-spor-ayakkabi--siyah--ayakkabi-havuzu1459025-1459025-22.jpg"
+    },
+    {
+        "id":4,
+        "title": "Vespa",
+        "price": 4000,
+        "image": "https://p0.pikist.com/photos/210/446/vespa-roller-motor-scooter-cult-moped-yellow-flitzer-drive-motor.jpg"
+    },
+    {
+        "id":5,
+        "title": "Araba",
+        "price": 40000,
+        "image": "https://www.arabafirsatlari.com/wp-content/webp-express/webp-images/uploads/2021/07/en-iyi-klasik-arabalar.png.webp"
+    },
+    {
+        "id":6,
+        "title": "Mini Cooper",
+        "price": 800000,
+        "image": "http://otomobiltutkunu.com/wp-content/uploads/2014/10/New-MINI_New-Cooper_MINI-Cooper_Yeni-MINI-Cooper-Test_Otomobiltutkunu_Mini-Cooper-Test_2014-MINI-Cooper.jpg"
+    },
+    {
+        "id":8,
+        "title": "Külliye",
+        "price": 100000000,
+        "image": "https://www.evrensel.net/upload/dosya/189019.jpg"
+    },
+    {
+        "id":7,
+        "title": "Saray",
+        "price": 10000000000,
+        "image": "https://www.cumhuriyet.com.tr/Archive/2018/7/9/1021102_resource/ECF8E194-AD0F-4E0C-9891-A4F88760BAB4_22288602.jpg"
+    }
+    
+
+]

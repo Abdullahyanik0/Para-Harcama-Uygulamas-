@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+body{
+  background-color: beige;
+}
+
+.header{
+  font-size: 3.6rem;
+  background: linear-gradient( rgb(202, 13, 13) , rgb(138, 16, 32) ) ;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  line-height: 6rem;
+}
+.container{
+  display: grid;
+  grid-template-columns:  auto auto auto;
+  background-color: #eeeeee;
+  margin: 0 auto;
+  width: 150rem;
+  
+
+}
+
+.product{
+    padding: 1rem;
+  .products{
+    
+    h6{
+      font-size: 2rem;
+    }
+    .price{
+      font-size: 2rem;
+      color: #009f4d;
+      font-weight: bold;
+      margin: .5rem;
+    }
+    .images{
+      width: 100%;
+      max-height: 45rem;
+    }
+    .action {
+     
+      .sell{
+        font-size: 2rem;
+        background: #0cb9c1;
+        color: #fff;
+        width: 10rem;
+        height: 4rem;
+        border-radius: .5rem;
+        border: .1px solid ;
+        &:hover{
+          background: #fff;
+          color: #00bce4;
+        }
+      }
+      .amount{
+        font-size: 2rem;
+        padding: 1.5rem;
+      }
+      .buy{
+        font-size: 2rem;
+        background: #fff;
+        color: #00bce4;
+        width: 10rem;
+        height: 4rem;
+        border-radius: .5rem;
+        border: .1px solid ;
+        &:hover{
+          background: #00bce4;
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+
+div{
+  font-size: 2rem;
+  margin-top: .3rem;
+  
+}
+.total-btn{
+  font-size: 2.5rem;
+
+
+}
+.reset{
+  font-size: 2rem;
+  border: 1px solid;
+  border-radius: .5rem;
+  color: #00bce4;
+  background-color: #fff;
+  width: 15rem;
+  height: 3.5rem;
+  margin: 1rem;
+  
+
+&:hover{
+  background-color: #00bce4;
+  color: #fff;
+}
+}
+
+@media screen and (max-width: 992px) {
+  .header {
+    white-space: nowrap;
+    width: 150rem;
+  }
+  .container{
+    display: grid;
+  grid-template-columns: auto auto;
+  }
+}
